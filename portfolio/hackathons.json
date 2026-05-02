@@ -1,0 +1,10 @@
+[
+  { "name": "Hack n Win 2.0", "organiser": "D4 Community", "role": "Mentor", "date": "Mar 1–2, 2025", "dateISO": "2025-03-01" },
+  { "name": "Innovate Hackathon", "organiser": "SRM IST, Ghaziabad", "role": "Mentor & Judge", "date": "Apr 19–20, 2024", "dateISO": "2024-04-19" },
+  { "name": "Hack n Win", "organiser": "D4 Community", "role": "Mentor", "date": "Mar 2–3, 2024", "dateISO": "2024-03-02" },
+  { "name": "Techacks 4.0", "organiser": "Chitkara University", "role": "Mentor & Judge", "date": "Jan 19–21, 2024", "dateISO": "2024-01-19" },
+  { "name": "BharatTech Xperience", "organiser": "SVGOI", "role": "Mentor & Judge", "date": "Oct 28–29, 2023", "dateISO": "2023-10-28" },
+  { "name": "Smart Hackathon", "organiser": "Shaheed Bhagat Singh State University", "role": "Mentor & Judge", "date": "Feb 11–12, 2023", "dateISO": "2023-02-11" },
+  { "name": "DevFest Jalandhar 2022 — Top 15 Project Display", "organiser": "GDG Jalandhar", "role": "Mentor", "date": "2022", "dateISO": "2022-12-01" },
+  { "name": "DevCreate 2022", "organiser": "GDG Jalandhar", "role": "Mentor", "date": "2022", "dateISO": "2022-09-01" }
+]

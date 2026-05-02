@@ -1,0 +1,8 @@
+[
+  { "name": "Google I/O Extended Jalandhar", "url": "https://ioextended.gdgjalandhar.com", "description": "Event site for the GDG Jalandhar I/O Extended chapter." },
+  { "name": "DevFest Jalandhar", "url": "https://devfest.gdgjalandhar.com", "description": "DevFest Jalandhar conference website." },
+  { "name": "DevCreate Hackathon", "url": "https://hackathon.gdgjalandhar.com", "description": "Hackathon site for DevCreate by GDG Jalandhar." },
+  { "name": "Email Crafter GPT", "url": "https://chatgpt.com/g/g-E55G0BjvS-email-crafter", "description": "Custom GPT that helps draft and refine professional emails." },
+  { "name": "AGILE Story Builder GPT", "url": "https://chatgpt.com/g/g-uh9Xv2TxB-agile-story-builder", "description": "Custom GPT for writing well-formed agile user stories." },
+  { "name": "QA Testing Assistant GPT", "url": "https://chatgpt.com/g/g-7K4cpsTzg-qa-testing-assistant", "description": "Custom GPT for generating test plans and QA scenarios." }
+]

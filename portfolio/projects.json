@@ -1,4 +1,5 @@
 [
+  { "name": "QR Studio", "url": "https://qr-studio.programmersingh.dev", "description": "Installable PWA: Scan and generate QR Codes completely offline." },
   { "name": "Google I/O Extended Jalandhar", "url": "https://ioextended.gdgjalandhar.com", "description": "Event site for the GDG Jalandhar I/O Extended chapter." },
   { "name": "DevFest Jalandhar", "url": "https://devfest.gdgjalandhar.com", "description": "DevFest Jalandhar conference website." },
   { "name": "DevCreate Hackathon", "url": "https://hackathon.gdgjalandhar.com", "description": "Hackathon site for DevCreate by GDG Jalandhar." },

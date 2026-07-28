@@ -1,4 +1,6 @@
 [
+  { "title": "Readying the React Apps for Agentic Browsers", "event": "React Rajasthan: Meetup #10", "location": "Codeup, Jaipur", "date": "Aug 1, 2026", "dateISO": "2026-08-01", "type": "Talk" },
+  { "title": "Build and Deploy Apps from Scratch using Agentic Tools: Stitch and Antigravity", "event": "Build with AI Bootcamp: Bengaluru", "location": "Google, Bengaluru", "date": "Jul 10-11, 2026", "dateISO": "2026-07-10", "type": "Workshop" },
   { "title": "Readying the web for Agents", "event": "Build with AI", "location": "Lucknow", "date": "Apr 25, 2026", "dateISO": "2026-04-25", "type": "Talk" },
   { "title": "Develop and deploy products using Antigravity", "event": "Build with AI Bootcamp (Google for Developers · Hack2Skill)", "date": "Apr 02, 2026", "dateISO": "2026-04-02", "type": "Workshop" },
   { "title": "Using AI tools to build POCs", "event": "CGC Landran — Dept. of ECE", "date": "Apr 02, 2026", "dateISO": "2026-04-02", "type": "Workshop" },
@@ -11,8 +13,9 @@
   { "title": "Be a Better Prompt Engineer", "event": "Hello World Conclave (D4 Community, online)", "date": "Jun 29, 2025", "dateISO": "2025-06-29", "type": "Talk" },
   { "title": "Supercharge your development with IDX", "event": "DevFest Jammu 2024", "date": "Dec 21, 2024", "dateISO": "2024-12-21", "type": "Talk" },
   { "title": "Develop and Deploy with IDX", "event": "Empowering The Cloud Era (GDG Chandigarh)", "date": "Nov 09, 2024", "dateISO": "2024-11-09", "type": "Talk" },
-  { "title": "What’s new in Angular", "event": "Google I/O Extended Kathmandu 2024", "date": "2024", "dateISO": "2024-08-01", "type": "Talk" },
-  { "title": "What’s new in Angular", "event": "Google I/O Extended Jalandhar 2024", "date": "2024", "dateISO": "2024-08-01", "type": "Talk" },
-  { "title": "Getting Started with Angular", "event": "DevFest Ludhiana 2022", "date": "2022", "dateISO": "2022-12-01", "type": "Talk" },
-  { "title": "Full Stack Development — student session", "event": "CGC Jhanjeri", "date": "—", "dateISO": "2023-01-01", "type": "Session" }
+  { "title": "What’s new in Angular", "event": "Google I/O Extended Jalandhar 2024", "date": "Aug 3, 2024", "dateISO": "2024-08-03", "type": "Talk" },
+  { "title": "What’s new in Angular", "event": "Google I/O Extended Kathmandu 2024", "date": "Jul 27, 2024", "dateISO": "2024-07-27", "type": "Talk" },
+  { "title": "Web's new Swag: Modals, Popovers and more!", "event": "Google I/O Extended Jalandhar 2023", "date": "Aug 10, 2023", "dateISO": "2023-08-12", "type": "Talk" },
+  { "title": "Getting Started with Angular", "event": "DevFest Ludhiana 2022", "date": "Dec 28, 2022", "dateISO": "2022-12-28", "type": "Talk" },
+  { "title": "Full Stack Development — student session", "event": "CGC Jhanjeri", "date": "Oct 18, 2022", "dateISO": "2022-10-18", "type": "Session" }
 ]
